@@ -1,4 +1,4 @@
-# Advanced SQL
+# Advanced SQL Kaggle
 
 ## Syllabus 
 
